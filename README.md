@@ -21,9 +21,11 @@
 
 ## 当前收录
 
-| 地区/人群 | 状态    | Skill 文件                      |
-| --------- | ------- | ------------------------------- |
-| 客家人    | ✅ 完成 | `.claude/skills/hakka/SKILL.md` |
+使用下面的方式安装 `npx skills add https://github.com/konghayao/i-am-chinese --skill hakka` --skill 后面填下面的编码即可
+
+| 地区/人群 | 编码  | 状态    | Skill 文件                      |
+| --------- | ----- | ------- | ------------------------------- |
+| 客家人    | hakka | ✅ 完成 | `.claude/skills/hakka/SKILL.md` |
 
 ## 项目结构
 
